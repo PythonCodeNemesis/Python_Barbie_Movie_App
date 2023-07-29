@@ -1,0 +1,65 @@
+/* frontend/src/App.css */
+body {
+  background-color: #ffe1f0; /* Light pink background */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 36px;
+  color: #d60093; /* Barbie pink title */
+  margin-bottom: 30px;
+}
+
+.movie-list {
+  margin-top: 20px;
+}
+
+.movie-item {
+  border: 2px solid #d60093; /* Barbie pink border */
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.movie-title {
+  font-size: 24px;
+  color: #d60093; /* Barbie pink title */
+}
+
+.movie-details {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.movie-synopsis {
+  font-style: italic;
+}
+
+.random-button {
+  background-color: #d60093; /* Barbie pink button */
+  color: #ffffff; /* White text color */
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.random-movie {
+  border: 2px solid #d60093; /* Barbie pink border */
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.random-title {
+  font-size: 20px;
+  color: #d60093; /* Barbie pink title */
+}
